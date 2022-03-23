@@ -1,0 +1,12 @@
+.column {
+  width: 20%;
+  float: left;
+  margin: 15px;
+}
+
+.column img {
+  width: 100%;
+  background-color: lightskyblue;
+}
+
+

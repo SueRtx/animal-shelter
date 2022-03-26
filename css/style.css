@@ -1,9 +1,9 @@
 Body {background-color:rgb(189, 189, 243) }
 h1 {
-  font-size: 70px;
+  font-size: 90px;
   color: rgb(204, 16, 148);
   text-align:center;
-  
+
 }
 .column {
   width: 27%;
@@ -11,7 +11,7 @@ h1 {
   float: left;
   margin: 15px;
   border: solid rgb(172, 119, 221);
-  border-width: 10px;
+  border-width: 12px;
   background-color: lightskyblue;
 }
 
@@ -19,5 +19,9 @@ h1 {
   width: 100%;
   
 }
-
+h2 {
+  font-size: 70px;
+  color: rgb(20, 87, 104);
+  text-align:center;
+}
 
